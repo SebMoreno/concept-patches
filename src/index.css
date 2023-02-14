@@ -1,0 +1,9 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: rgba(255, 255, 255, 0.87);
+    background-color: #282634;
+    --color1: #282634;
+    --color2: #242424;
+    --color3: #ff4057;
+    --color4: #dcdcdc;
+}
