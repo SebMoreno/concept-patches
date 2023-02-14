@@ -1,4 +1,4 @@
-export interface Data {
+export interface Concept {
     label: string;
     description: string;
     positions: CellInfo[];

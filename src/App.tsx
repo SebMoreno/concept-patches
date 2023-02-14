@@ -1,5 +1,7 @@
+import React from "react";
 import "./App.css";
+import { Board } from "./components";
 
-export function App() {
-    return <div>nothing</div>;
-}
+export const App: React.FC = () => {
+    return <Board/>;
+};

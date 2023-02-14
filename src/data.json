@@ -4,6 +4,104 @@
     "description": "The Tecnichal debt is",
     "positions": [
       {
+        "letter": "C",
+        "position": 176
+      },
+      {
+        "letter": "D",
+        "position": 177
+      },
+      {
+        "letter": "E",
+        "position": 178
+      },
+      {
+        "letter": "F",
+        "position": 179
+      },
+      {
+        "letter": "G",
+        "position": 180
+      },
+      {
+        "letter": "H",
+        "position": 181
+      },
+      {
+        "letter": "I",
+        "position": 182
+      },
+      {
+        "letter": "J",
+        "position": 183
+      },
+      {
+        "letter": "K",
+        "position": 184
+      },
+      {
+        "letter": "L",
+        "position": 185
+      },
+      {
+        "letter": "M",
+        "position": 186
+      },
+      {
+        "letter": "N",
+        "position": 187
+      },
+      {
+        "letter": "O",
+        "position": 188
+      },
+      {
+        "letter": "P",
+        "position": 189
+      },
+      {
+        "letter": "Q",
+        "position": 190
+      },
+      {
+        "letter": "R",
+        "position": 191
+      },
+      {
+        "letter": "S",
+        "position": 192
+      },
+      {
+        "letter": "T",
+        "position": 193
+      },
+      {
+        "letter": "U",
+        "position": 194
+      },
+      {
+        "letter": "V",
+        "position": 195
+      },
+      {
+        "letter": "W",
+        "position": 196
+      },
+      {
+        "letter": "X",
+        "position": 197
+      },
+      {
+        "letter": "Y",
+        "position": 198
+      }
+    ]
+  },
+  {
+    "label": "softwar systemes",
+    "description": "A Softwar Systemes is",
+    "positions": [
+      {
         "letter": "A",
         "position": 0
       },
@@ -682,8 +780,8 @@
     ]
   },
   {
-    "label": "softwar systemes",
-    "description": "A Softwar Systemes is",
+    "label": "Requiriments",
+    "description": "There is Requiriments",
     "positions": [
       {
         "letter": "m",
@@ -816,104 +914,6 @@
       {
         "letter": "S",
         "position": 76
-      }
-    ]
-  },
-  {
-    "label": "Requiriments",
-    "description": "There is Requiriments",
-    "positions": [
-      {
-        "letter": "C",
-        "position": 176
-      },
-      {
-        "letter": "D",
-        "position": 177
-      },
-      {
-        "letter": "E",
-        "position": 178
-      },
-      {
-        "letter": "F",
-        "position": 179
-      },
-      {
-        "letter": "G",
-        "position": 180
-      },
-      {
-        "letter": "H",
-        "position": 181
-      },
-      {
-        "letter": "I",
-        "position": 182
-      },
-      {
-        "letter": "J",
-        "position": 183
-      },
-      {
-        "letter": "K",
-        "position": 184
-      },
-      {
-        "letter": "L",
-        "position": 185
-      },
-      {
-        "letter": "M",
-        "position": 186
-      },
-      {
-        "letter": "N",
-        "position": 187
-      },
-      {
-        "letter": "O",
-        "position": 188
-      },
-      {
-        "letter": "P",
-        "position": 189
-      },
-      {
-        "letter": "Q",
-        "position": 190
-      },
-      {
-        "letter": "R",
-        "position": 191
-      },
-      {
-        "letter": "S",
-        "position": 192
-      },
-      {
-        "letter": "T",
-        "position": 193
-      },
-      {
-        "letter": "U",
-        "position": 194
-      },
-      {
-        "letter": "V",
-        "position": 195
-      },
-      {
-        "letter": "W",
-        "position": 196
-      },
-      {
-        "letter": "X",
-        "position": 197
-      },
-      {
-        "letter": "Y",
-        "position": 198
       }
     ]
   }
