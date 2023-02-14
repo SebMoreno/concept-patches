@@ -1,0 +1,920 @@
+[
+  {
+    "label": "Tecnichal debt",
+    "description": "The Tecnichal debt is",
+    "positions": [
+      {
+        "letter": "A",
+        "position": 0
+      },
+      {
+        "letter": "B",
+        "position": 1
+      },
+      {
+        "letter": "C",
+        "position": 2
+      },
+      {
+        "letter": "D",
+        "position": 3
+      },
+      {
+        "letter": "E",
+        "position": 4
+      },
+      {
+        "letter": "F",
+        "position": 5
+      },
+      {
+        "letter": "G",
+        "position": 6
+      },
+      {
+        "letter": "H",
+        "position": 7
+      },
+      {
+        "letter": "I",
+        "position": 8
+      },
+      {
+        "letter": "J",
+        "position": 9
+      },
+      {
+        "letter": "K",
+        "position": 10
+      },
+      {
+        "letter": "L",
+        "position": 11
+      },
+      {
+        "letter": "M",
+        "position": 12
+      },
+      {
+        "letter": "N",
+        "position": 13
+      },
+      {
+        "letter": "O",
+        "position": 14
+      },
+      {
+        "letter": "P",
+        "position": 15
+      },
+      {
+        "letter": "Q",
+        "position": 16
+      },
+      {
+        "letter": "R",
+        "position": 17
+      },
+      {
+        "letter": "S",
+        "position": 18
+      },
+      {
+        "letter": "T",
+        "position": 19
+      },
+      {
+        "letter": "U",
+        "position": 20
+      },
+      {
+        "letter": "V",
+        "position": 21
+      },
+      {
+        "letter": "W",
+        "position": 22
+      },
+      {
+        "letter": "X",
+        "position": 23
+      },
+      {
+        "letter": "Y",
+        "position": 24
+      },
+      {
+        "letter": "Z",
+        "position": 25
+      },
+      {
+        "letter": "AA",
+        "position": 26
+      },
+      {
+        "letter": "BB",
+        "position": 27
+      },
+      {
+        "letter": "CC",
+        "position": 28
+      },
+      {
+        "letter": "DD",
+        "position": 29
+      },
+      {
+        "letter": "EE",
+        "position": 30
+      },
+      {
+        "letter": "FF",
+        "position": 31
+      },
+      {
+        "letter": "a",
+        "position": 32
+      },
+      {
+        "letter": "b",
+        "position": 33
+      },
+      {
+        "letter": "c",
+        "position": 34
+      },
+      {
+        "letter": "d",
+        "position": 35
+      },
+      {
+        "letter": "e",
+        "position": 36
+      },
+      {
+        "letter": "f",
+        "position": 37
+      },
+      {
+        "letter": "g",
+        "position": 38
+      },
+      {
+        "letter": "h",
+        "position": 39
+      },
+      {
+        "letter": "i",
+        "position": 40
+      },
+      {
+        "letter": "j",
+        "position": 41
+      },
+      {
+        "letter": "k",
+        "position": 42
+      },
+      {
+        "letter": "l",
+        "position": 43
+      },
+      {
+        "letter": "T",
+        "position": 77
+      },
+      {
+        "letter": "U",
+        "position": 78
+      },
+      {
+        "letter": "V",
+        "position": 79
+      },
+      {
+        "letter": "W",
+        "position": 80
+      },
+      {
+        "letter": "X",
+        "position": 81
+      },
+      {
+        "letter": "Y",
+        "position": 82
+      },
+      {
+        "letter": "Z",
+        "position": 83
+      },
+      {
+        "letter": "AA",
+        "position": 84
+      },
+      {
+        "letter": "BB",
+        "position": 85
+      },
+      {
+        "letter": "CC",
+        "position": 86
+      },
+      {
+        "letter": "DD",
+        "position": 87
+      },
+      {
+        "letter": "EE",
+        "position": 88
+      },
+      {
+        "letter": "FF",
+        "position": 89
+      },
+      {
+        "letter": "a",
+        "position": 90
+      },
+      {
+        "letter": "b",
+        "position": 91
+      },
+      {
+        "letter": "c",
+        "position": 92
+      },
+      {
+        "letter": "d",
+        "position": 93
+      },
+      {
+        "letter": "e",
+        "position": 94
+      },
+      {
+        "letter": "f",
+        "position": 95
+      },
+      {
+        "letter": "g",
+        "position": 96
+      },
+      {
+        "letter": "h",
+        "position": 97
+      },
+      {
+        "letter": "i",
+        "position": 98
+      },
+      {
+        "letter": "j",
+        "position": 99
+      },
+      {
+        "letter": "k",
+        "position": 100
+      },
+      {
+        "letter": "l",
+        "position": 101
+      },
+      {
+        "letter": "m",
+        "position": 102
+      },
+      {
+        "letter": "n",
+        "position": 103
+      },
+      {
+        "letter": "o",
+        "position": 104
+      },
+      {
+        "letter": "p",
+        "position": 105
+      },
+      {
+        "letter": "q",
+        "position": 106
+      },
+      {
+        "letter": "r",
+        "position": 107
+      },
+      {
+        "letter": "s",
+        "position": 108
+      },
+      {
+        "letter": "t",
+        "position": 109
+      },
+      {
+        "letter": "u",
+        "position": 110
+      },
+      {
+        "letter": "v",
+        "position": 111
+      },
+      {
+        "letter": "w",
+        "position": 112
+      },
+      {
+        "letter": "x",
+        "position": 113
+      },
+      {
+        "letter": "y",
+        "position": 114
+      },
+      {
+        "letter": "z",
+        "position": 115
+      },
+      {
+        "letter": "A",
+        "position": 116
+      },
+      {
+        "letter": "B",
+        "position": 117
+      },
+      {
+        "letter": "C",
+        "position": 118
+      },
+      {
+        "letter": "D",
+        "position": 119
+      },
+      {
+        "letter": "E",
+        "position": 120
+      },
+      {
+        "letter": "F",
+        "position": 121
+      },
+      {
+        "letter": "G",
+        "position": 122
+      },
+      {
+        "letter": "H",
+        "position": 123
+      },
+      {
+        "letter": "I",
+        "position": 124
+      },
+      {
+        "letter": "J",
+        "position": 125
+      },
+      {
+        "letter": "K",
+        "position": 126
+      },
+      {
+        "letter": "L",
+        "position": 127
+      },
+      {
+        "letter": "M",
+        "position": 128
+      },
+      {
+        "letter": "N",
+        "position": 129
+      },
+      {
+        "letter": "O",
+        "position": 130
+      },
+      {
+        "letter": "P",
+        "position": 131
+      },
+      {
+        "letter": "Q",
+        "position": 132
+      },
+      {
+        "letter": "R",
+        "position": 133
+      },
+      {
+        "letter": "S",
+        "position": 134
+      },
+      {
+        "letter": "T",
+        "position": 135
+      },
+      {
+        "letter": "U",
+        "position": 136
+      },
+      {
+        "letter": "V",
+        "position": 137
+      },
+      {
+        "letter": "W",
+        "position": 138
+      },
+      {
+        "letter": "X",
+        "position": 139
+      },
+      {
+        "letter": "Y",
+        "position": 140
+      },
+      {
+        "letter": "Z",
+        "position": 141
+      },
+      {
+        "letter": "AA",
+        "position": 142
+      },
+      {
+        "letter": "BB",
+        "position": 143
+      },
+      {
+        "letter": "CC",
+        "position": 144
+      },
+      {
+        "letter": "DD",
+        "position": 145
+      },
+      {
+        "letter": "EE",
+        "position": 146
+      },
+      {
+        "letter": "FF",
+        "position": 147
+      },
+      {
+        "letter": "a",
+        "position": 148
+      },
+      {
+        "letter": "b",
+        "position": 149
+      },
+      {
+        "letter": "c",
+        "position": 150
+      },
+      {
+        "letter": "d",
+        "position": 151
+      },
+      {
+        "letter": "e",
+        "position": 152
+      },
+      {
+        "letter": "f",
+        "position": 153
+      },
+      {
+        "letter": "g",
+        "position": 154
+      },
+      {
+        "letter": "h",
+        "position": 155
+      },
+      {
+        "letter": "i",
+        "position": 156
+      },
+      {
+        "letter": "j",
+        "position": 157
+      },
+      {
+        "letter": "k",
+        "position": 158
+      },
+      {
+        "letter": "l",
+        "position": 159
+      },
+      {
+        "letter": "m",
+        "position": 160
+      },
+      {
+        "letter": "n",
+        "position": 161
+      },
+      {
+        "letter": "o",
+        "position": 162
+      },
+      {
+        "letter": "p",
+        "position": 163
+      },
+      {
+        "letter": "q",
+        "position": 164
+      },
+      {
+        "letter": "r",
+        "position": 165
+      },
+      {
+        "letter": "s",
+        "position": 166
+      },
+      {
+        "letter": "t",
+        "position": 167
+      },
+      {
+        "letter": "u",
+        "position": 168
+      },
+      {
+        "letter": "v",
+        "position": 169
+      },
+      {
+        "letter": "w",
+        "position": 170
+      },
+      {
+        "letter": "x",
+        "position": 171
+      },
+      {
+        "letter": "y",
+        "position": 172
+      },
+      {
+        "letter": "z",
+        "position": 173
+      },
+      {
+        "letter": "A",
+        "position": 174
+      },
+      {
+        "letter": "B",
+        "position": 175
+      },
+      {
+        "letter": "Z",
+        "position": 199
+      },
+      {
+        "letter": "AA",
+        "position": 200
+      },
+      {
+        "letter": "BB",
+        "position": 201
+      },
+      {
+        "letter": "CC",
+        "position": 202
+      },
+      {
+        "letter": "DD",
+        "position": 203
+      },
+      {
+        "letter": "EE",
+        "position": 204
+      },
+      {
+        "letter": "FF",
+        "position": 205
+      },
+      {
+        "letter": "a",
+        "position": 206
+      },
+      {
+        "letter": "b",
+        "position": 207
+      },
+      {
+        "letter": "c",
+        "position": 208
+      },
+      {
+        "letter": "d",
+        "position": 209
+      },
+      {
+        "letter": "e",
+        "position": 210
+      },
+      {
+        "letter": "f",
+        "position": 211
+      },
+      {
+        "letter": "g",
+        "position": 212
+      },
+      {
+        "letter": "h",
+        "position": 213
+      },
+      {
+        "letter": "i",
+        "position": 214
+      },
+      {
+        "letter": "j",
+        "position": 215
+      },
+      {
+        "letter": "k",
+        "position": 216
+      },
+      {
+        "letter": "l",
+        "position": 217
+      },
+      {
+        "letter": "m",
+        "position": 218
+      },
+      {
+        "letter": "n",
+        "position": 219
+      },
+      {
+        "letter": "o",
+        "position": 220
+      },
+      {
+        "letter": "p",
+        "position": 221
+      },
+      {
+        "letter": "q",
+        "position": 222
+      },
+      {
+        "letter": "r",
+        "position": 223
+      },
+      {
+        "letter": "s",
+        "position": 224
+      }
+    ]
+  },
+  {
+    "label": "softwar systemes",
+    "description": "A Softwar Systemes is",
+    "positions": [
+      {
+        "letter": "m",
+        "position": 44
+      },
+      {
+        "letter": "n",
+        "position": 45
+      },
+      {
+        "letter": "o",
+        "position": 46
+      },
+      {
+        "letter": "p",
+        "position": 47
+      },
+      {
+        "letter": "q",
+        "position": 48
+      },
+      {
+        "letter": "r",
+        "position": 49
+      },
+      {
+        "letter": "s",
+        "position": 50
+      },
+      {
+        "letter": "t",
+        "position": 51
+      },
+      {
+        "letter": "u",
+        "position": 52
+      },
+      {
+        "letter": "v",
+        "position": 53
+      },
+      {
+        "letter": "w",
+        "position": 54
+      },
+      {
+        "letter": "x",
+        "position": 55
+      },
+      {
+        "letter": "y",
+        "position": 56
+      },
+      {
+        "letter": "z",
+        "position": 57
+      },
+      {
+        "letter": "A",
+        "position": 58
+      },
+      {
+        "letter": "B",
+        "position": 59
+      },
+      {
+        "letter": "C",
+        "position": 60
+      },
+      {
+        "letter": "D",
+        "position": 61
+      },
+      {
+        "letter": "E",
+        "position": 62
+      },
+      {
+        "letter": "F",
+        "position": 63
+      },
+      {
+        "letter": "G",
+        "position": 64
+      },
+      {
+        "letter": "H",
+        "position": 65
+      },
+      {
+        "letter": "I",
+        "position": 66
+      },
+      {
+        "letter": "J",
+        "position": 67
+      },
+      {
+        "letter": "K",
+        "position": 68
+      },
+      {
+        "letter": "L",
+        "position": 69
+      },
+      {
+        "letter": "M",
+        "position": 70
+      },
+      {
+        "letter": "N",
+        "position": 71
+      },
+      {
+        "letter": "O",
+        "position": 72
+      },
+      {
+        "letter": "P",
+        "position": 73
+      },
+      {
+        "letter": "Q",
+        "position": 74
+      },
+      {
+        "letter": "R",
+        "position": 75
+      },
+      {
+        "letter": "S",
+        "position": 76
+      }
+    ]
+  },
+  {
+    "label": "Requiriments",
+    "description": "There is Requiriments",
+    "positions": [
+      {
+        "letter": "C",
+        "position": 176
+      },
+      {
+        "letter": "D",
+        "position": 177
+      },
+      {
+        "letter": "E",
+        "position": 178
+      },
+      {
+        "letter": "F",
+        "position": 179
+      },
+      {
+        "letter": "G",
+        "position": 180
+      },
+      {
+        "letter": "H",
+        "position": 181
+      },
+      {
+        "letter": "I",
+        "position": 182
+      },
+      {
+        "letter": "J",
+        "position": 183
+      },
+      {
+        "letter": "K",
+        "position": 184
+      },
+      {
+        "letter": "L",
+        "position": 185
+      },
+      {
+        "letter": "M",
+        "position": 186
+      },
+      {
+        "letter": "N",
+        "position": 187
+      },
+      {
+        "letter": "O",
+        "position": 188
+      },
+      {
+        "letter": "P",
+        "position": 189
+      },
+      {
+        "letter": "Q",
+        "position": 190
+      },
+      {
+        "letter": "R",
+        "position": 191
+      },
+      {
+        "letter": "S",
+        "position": 192
+      },
+      {
+        "letter": "T",
+        "position": 193
+      },
+      {
+        "letter": "U",
+        "position": 194
+      },
+      {
+        "letter": "V",
+        "position": 195
+      },
+      {
+        "letter": "W",
+        "position": 196
+      },
+      {
+        "letter": "X",
+        "position": 197
+      },
+      {
+        "letter": "Y",
+        "position": 198
+      }
+    ]
+  }
+]
