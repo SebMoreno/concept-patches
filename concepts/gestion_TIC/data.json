@@ -1,0 +1,89 @@
+[
+    {
+      "label": "Method",
+      "description": "A means for achieving an outcome, output, result, or project deliverable.",
+      "associated_concept_essence": "Method",
+      "positions": [
+        {
+          "letter": "M",
+          "position": 176
+        },
+        {
+          "letter": "e",
+          "position": 177
+        },
+        {
+          "letter": "t",
+          "position": 178
+        },
+        {
+          "letter": "h",
+          "position": 179
+        },
+        {
+          "letter": "o",
+          "position": 180
+        },
+        {
+          "letter": "d",
+          "position": 181
+        }
+      ]
+    },
+    {
+      "label": "Opportunity",
+      "description": "A risk that would have a positive effect on one or more project objectives.",
+      "associated_concept_essence": "Opportunity",
+      "positions": [
+        {
+          "letter": "O",
+          "position": 176
+        },
+        {
+          "letter": "p",
+          "position": 177
+        },
+        {
+          "letter": "p",
+          "position": 178
+        },
+        {
+          "letter": "o",
+          "position": 179
+        },
+        {
+          "letter": "r",
+          "position": 180
+        },
+        {
+          "letter": "t",
+          "position": 181
+        },
+        {
+          "letter": "u",
+          "position": 182
+        },
+        {
+          "letter": "n",
+          "position": 183
+        },
+        {
+          "letter": "i",
+          "position": 184
+        },
+        {
+          "letter": "t",
+          "position": 185
+        },
+        {
+          "letter": "t",
+          "position": 186
+        },
+        {
+          "letter": "y",
+          "position": 187
+        }
+      ]
+    }  
+  ]
+  
