@@ -2,7 +2,6 @@
     {
       "label": "Method",
       "description": "A means for achieving an outcome, output, result, or project deliverable.",
-      "associated_concept_essence": "Method",
       "positions": [
         {
           "letter": "M",
@@ -33,7 +32,6 @@
     {
       "label": "Opportunity",
       "description": "A risk that would have a positive effect on one or more project objectives.",
-      "associated_concept_essence": "Opportunity",
       "positions": [
         {
           "letter": "O",
@@ -84,6 +82,958 @@
           "position": 187
         }
       ]
-    }  
+    },
+    {
+      "label": "Product Owner",
+      "description": "A person responsible for maximizing the value of the artifact being produced by the team and accountable for the final result.",
+      "positions": [
+        {
+          "letter": "P",
+          "position": 176
+        },
+        {
+          "letter": "r",
+          "position": 177
+        },
+        {
+          "letter": "o",
+          "position": 178
+        },
+        {
+          "letter": "d",
+          "position": 179
+        },
+        {
+          "letter": "u",
+          "position": 180
+        },
+        {
+          "letter": "c",
+          "position": 181
+        },
+        {
+          "letter": "t",
+          "position": 182
+        },
+        {
+          "letter": "O",
+          "position": 183
+        },
+        {
+          "letter": "w",
+          "position": 184
+        },
+        {
+          "letter": "n",
+          "position": 185
+        },
+        {
+          "letter": "e",
+          "position": 186
+        },
+        {
+          "letter": "r",
+          "position": 187
+        }
+      ]
+    },
+    {
+      "label": "Project Management",
+      "description": "The application of knowledge, skills, tools, and techniques to activities related to the creation of a product, service or result, in order to meet its requirements.",
+      "positions": [
+        {
+          "letter": "P",
+          "position": 176
+        },
+        {
+          "letter": "r",
+          "position": 177
+        },
+        {
+          "letter": "o",
+          "position": 178
+        },
+        {
+          "letter": "j",
+          "position": 179
+        },
+        {
+          "letter": "e",
+          "position": 180
+        },
+        {
+          "letter": "c",
+          "position": 181
+        },
+        {
+          "letter": "t",
+          "position": 182
+        },
+        {
+          "letter": "M",
+          "position": 183
+        },
+        {
+          "letter": "a",
+          "position": 184
+        },
+        {
+          "letter": "n",
+          "position": 185
+        },
+        {
+          "letter": "a",
+          "position": 186
+        },
+        {
+          "letter": "g",
+          "position": 187
+        },
+        {
+          "letter": "e",
+          "position": 176
+        },
+        {
+          "letter": "m",
+          "position": 177
+        },
+        {
+          "letter": "e",
+          "position": 178
+        },
+        {
+          "letter": "n",
+          "position": 179
+        },
+        {
+          "letter": "t",
+          "position": 180
+        }
+      ]
+    },
+    {
+      "label": "Prototype",
+      "description": "A working model used to obtain early feedback on the expected product before actually building it.",
+      "positions": [
+        {
+          "letter": "P",
+          "position": 176
+        },
+        {
+          "letter": "r",
+          "position": 177
+        },
+        {
+          "letter": "o",
+          "position": 178
+        },
+        {
+          "letter": "t",
+          "position": 179
+        },
+        {
+          "letter": "o",
+          "position": 180
+        },
+        {
+          "letter": "t",
+          "position": 181
+        },
+        {
+          "letter": "y",
+          "position": 182
+        },
+        {
+          "letter": "p",
+          "position": 183
+        },
+        {
+          "letter": "e",
+          "position": 184
+        }
+      ]
+    },
+    {
+      "label": "Quality Metrics",
+      "description": "A description of a project or product attribute and how to measure it.",
+      "positions": [
+        {
+          "letter": "Q",
+          "position": 176
+        },
+        {
+          "letter": "u",
+          "position": 177
+        },
+        {
+          "letter": "a",
+          "position": 178
+        },
+        {
+          "letter": "l",
+          "position": 179
+        },
+        {
+          "letter": "i",
+          "position": 180
+        },
+        {
+          "letter": "t",
+          "position": 181
+        },
+        {
+          "letter": "y",
+          "position": 182
+        },
+        {
+          "letter": "M",
+          "position": 183
+        },
+        {
+          "letter": "e",
+          "position": 184
+        },
+        {
+          "letter": "t",
+          "position": 185
+        },
+        {
+          "letter": "r",
+          "position": 186
+        },
+        {
+          "letter": "i",
+          "position": 187
+        },
+        {
+          "letter": "c",
+          "position": 187
+        },
+        {
+          "letter": "s",
+          "position": 187
+        }
+      ]
+    },
+    {
+      "label": "Release Plan",
+      "description": "Proposed means for accomplishing the project goals that sets expectations for the dates, features, and/or outcomes expected to be delivered over the course of multiple iterations.",
+      "positions": [
+        {
+          "letter": "R",
+          "position": 176
+        },
+        {
+          "letter": "e",
+          "position": 177
+        },
+        {
+          "letter": "l",
+          "position": 178
+        },
+        {
+          "letter": "e",
+          "position": 179
+        },
+        {
+          "letter": "a",
+          "position": 180
+        },
+        {
+          "letter": "s",
+          "position": 181
+        },
+        {
+          "letter": "e",
+          "position": 182
+        },
+        {
+          "letter": "P",
+          "position": 183
+        },
+        {
+          "letter": "l",
+          "position": 184
+        },
+        {
+          "letter": "a",
+          "position": 185
+        },
+        {
+          "letter": "n",
+          "position": 186
+        }
+      ]
+    },
+    {
+      "label": "Requirement",
+      "description": "A condition or capability that is necessary to be present in a product, service, or result to satisfy a business need.",
+      "positions": [
+        {
+          "letter": "R",
+          "position": 176
+        },
+        {
+          "letter": "e",
+          "position": 177
+        },
+        {
+          "letter": "q",
+          "position": 178
+        },
+        {
+          "letter": "u",
+          "position": 179
+        },
+        {
+          "letter": "i",
+          "position": 180
+        },
+        {
+          "letter": "r",
+          "position": 181
+        },
+        {
+          "letter": "e",
+          "position": 182
+        },
+        {
+          "letter": "m",
+          "position": 183
+        },
+        {
+          "letter": "e",
+          "position": 184
+        },
+        {
+          "letter": "n",
+          "position": 185
+        },
+        {
+          "letter": "t",
+          "position": 186
+        }
+      ]
+    }, 
+    {
+      "label": "Backlog",
+      "description": "An ordered list of work to be done.",
+      "positions": [
+        {
+          "letter": "B",
+          "position": 176
+        },
+        {
+          "letter": "a",
+          "position": 177
+        },
+        {
+          "letter": "c",
+          "position": 178
+        },
+        {
+          "letter": "k",
+          "position": 179
+        },
+        {
+          "letter": "l",
+          "position": 180
+        },
+        {
+          "letter": "o",
+          "position": 181
+        },
+        {
+          "letter": "g",
+          "position": 182
+        }
+      ]
+    },
+    {
+      "label": "Cause and Effect Diagram",
+      "description": "A visual representation that helps trace an undesirable effect back to its root cause.",
+      "positions": [
+        {
+          "letter": "C",
+          "position": 176
+        },
+        {
+          "letter": "a",
+          "position": 177
+        },
+        {
+          "letter": "u",
+          "position": 178
+        },
+        {
+          "letter": "s",
+          "position": 179
+        },
+        {
+          "letter": "e",
+          "position": 180
+        },
+        {
+          "letter": "a",
+          "position": 181
+        },
+        {
+          "letter": "n",
+          "position": 182
+        },
+        {
+          "letter": "d",
+          "position": 183
+        },
+        {
+          "letter": "E",
+          "position": 184
+        },
+        {
+          "letter": "f",
+          "position": 185
+        },
+        {
+          "letter": "f",
+          "position": 186
+        },
+        {
+          "letter": "e",
+          "position": 187
+        },
+        {
+          "letter": "c",
+          "position": 187
+        },
+        {
+          "letter": "t",
+          "position": 187
+        },
+        {
+          "letter": "D",
+          "position": 187
+        },
+        {
+          "letter": "i",
+          "position": 187
+        },
+        {
+          "letter": "a",
+          "position": 187
+        },
+        {
+          "letter": "g",
+          "position": 187
+        },
+        {
+          "letter": "r",
+          "position": 187
+        },
+        {
+          "letter": "a",
+          "position": 187
+        },
+        {
+          "letter": "m",
+          "position": 187
+        }
+      ]
+    },
+    {
+      "label": "Continuous Delivery",
+      "description": "The practice of sending feature increments immediately to customers, often through the use of small batches of work and automation technology",
+      "positions": [
+        {
+          "letter": "C",
+          "position": 176
+        },
+        {
+          "letter": "o",
+          "position": 177
+        },
+        {
+          "letter": "n",
+          "position": 178
+        },
+        {
+          "letter": "t",
+          "position": 179
+        },
+        {
+          "letter": "i",
+          "position": 180
+        },
+        {
+          "letter": "n",
+          "position": 181
+        },
+        {
+          "letter": "u",
+          "position": 182
+        },
+        {
+          "letter": "o",
+          "position": 183
+        },
+        {
+          "letter": "u",
+          "position": 184
+        },
+        {
+          "letter": "s",
+          "position": 185
+        },
+        {
+          "letter": "D",
+          "position": 186
+        },
+        {
+          "letter": "e",
+          "position": 187
+        },
+        {
+          "letter": "l",
+          "position": 187
+        },
+        {
+          "letter": "i",
+          "position": 187
+        },
+        {
+          "letter": "v",
+          "position": 187
+        },
+        {
+          "letter": "e",
+          "position": 187
+        },
+        {
+          "letter": "r",
+          "position": 187
+        },
+        {
+          "letter": "y",
+          "position": 187
+        }
+      ]
+    },
+    {
+      "label": "Change Log",
+      "description": "A comprehensive list of additions and modifications submitted during the project and their current status.",
+      "positions": [
+        {
+          "letter": "C",
+          "position": 176
+        },
+        {
+          "letter": "h",
+          "position": 177
+        },
+        {
+          "letter": "a",
+          "position": 178
+        },
+        {
+          "letter": "n",
+          "position": 179
+        },
+        {
+          "letter": "g",
+          "position": 180
+        },
+        {
+          "letter": "e",
+          "position": 181
+        },
+        {
+          "letter": "L",
+          "position": 182
+        },
+        {
+          "letter": "o",
+          "position": 183
+        },
+        {
+          "letter": "g",
+          "position": 184
+        }
+      ]
+    },
+    {
+      "label": "Definition of Done",
+      "description": "A checklist of all the criteria required to be met so that a deliverable can be considered ready for customer use.",
+      "positions": [
+        {
+          "letter": "D",
+          "position": 176
+        },
+        {
+          "letter": "e",
+          "position": 177
+        },
+        {
+          "letter": "f",
+          "position": 178
+        },
+        {
+          "letter": "i",
+          "position": 179
+        },
+        {
+          "letter": "n",
+          "position": 180
+        },
+        {
+          "letter": "i",
+          "position": 181
+        },
+        {
+          "letter": "t",
+          "position": 182
+        },
+        {
+          "letter": "i",
+          "position": 183
+        },
+        {
+          "letter": "o",
+          "position": 184
+        },
+        {
+          "letter": "n",
+          "position": 185
+        },
+        {
+          "letter": "o",
+          "position": 186
+        },
+        {
+          "letter": "f",
+          "position": 187
+        },
+        {
+          "letter": "D",
+          "position": 187
+        },
+        {
+          "letter": "o",
+          "position": 187
+        },
+        {
+          "letter": "n",
+          "position": 187
+        },
+        {
+          "letter": "e",
+          "position": 187
+        }
+      ]
+    },
+    {
+      "label": "DevOps",
+      "description": "A collection of practices for creating a smooth flow of deliveries by improving collaboration between development and operations staff.",
+      "positions": [
+        {
+          "letter": "D",
+          "position": 176
+        },
+        {
+          "letter": "e",
+          "position": 177
+        },
+        {
+          "letter": "v",
+          "position": 178
+        },
+        {
+          "letter": "O",
+          "position": 179
+        },
+        {
+          "letter": "p",
+          "position": 180
+        },
+        {
+          "letter": "s",
+          "position": 181
+        }
+      ]
+    },
+    {
+      "label": "Epic",
+      "description": "A large, related body of work intended to hierarchically organize a set of requirements and deliver specific business outcomes.",
+      "positions": [
+        {
+          "letter": "E",
+          "position": 176
+        },
+        {
+          "letter": "p",
+          "position": 177
+        },
+        {
+          "letter": "i",
+          "position": 178
+        },
+        {
+          "letter": "c",
+          "position": 179
+        }
+      ]
+    },
+    {
+      "label": "Feature",
+      "description": "A set of related requirements or functionalities that provides value to an organization.",
+      "positions": [
+        {
+          "letter": "F",
+          "position": 176
+        },
+        {
+          "letter": "e",
+          "position": 177
+        },
+        {
+          "letter": "a",
+          "position": 178
+        },
+        {
+          "letter": "t",
+          "position": 179
+        },
+        {
+          "letter": "u",
+          "position": 180
+        },
+        {
+          "letter": "r",
+          "position": 181
+        },
+        {
+          "letter": "e",
+          "position": 182
+        }
+      ]
+    },
+    {
+      "label": "Governance",
+      "description": "The framework for directing and enabling an organization through its established policies, practices, and other relevant documentation.",
+      "positions": [
+        {
+          "letter": "G",
+          "position": 176
+        },
+        {
+          "letter": "o",
+          "position": 177
+        },
+        {
+          "letter": "v",
+          "position": 178
+        },
+        {
+          "letter": "e",
+          "position": 179
+        },
+        {
+          "letter": "r",
+          "position": 180
+        },
+        {
+          "letter": "n",
+          "position": 181
+        },
+        {
+          "letter": "a",
+          "position": 182
+        },
+        {
+          "letter": "n",
+          "position": 183
+        },
+        {
+          "letter": "c",
+          "position": 184
+        },
+        {
+          "letter": "e",
+          "position": 187
+        }
+      ]
+    },
+    {
+      "label": "Issue",
+      "description": "A current condition or situation that may have an impact on the project objectives.",
+      "positions": [
+        {
+          "letter": "I",
+          "position": 176
+        },
+        {
+          "letter": "s",
+          "position": 177
+        },
+        {
+          "letter": "s",
+          "position": 178
+        },
+        {
+          "letter": "u",
+          "position": 179
+        },
+        {
+          "letter": "e",
+          "position": 180
+        }
+      ]
+    },
+    {
+      "label": "Iteration",
+      "description": "A timeboxed cycle of development on a product or deliverable in which all of the work that is needed to deliver value is performed.",
+      "positions": [
+        {
+          "letter": "I",
+          "position": 176
+        },
+        {
+          "letter": "t",
+          "position": 177
+        },
+        {
+          "letter": "e",
+          "position": 178
+        },
+        {
+          "letter": "r",
+          "position": 179
+        },
+        {
+          "letter": "a",
+          "position": 180
+        },
+        {
+          "letter": "t",
+          "position": 181
+        },
+        {
+          "letter": "i",
+          "position": 182
+        },
+        {
+          "letter": "o",
+          "position": 183
+        },
+        {
+          "letter": "n",
+          "position": 184
+        }
+      ]
+    },
+    {
+      "label": "Kanban Board",
+      "description": "A visualization tool that shows work in progress to help identify bottlenecks and overcommitments, thereby allowing the team to optimize the workflow.",
+      "positions": [
+        {
+          "letter": "K",
+          "position": 176
+        },
+        {
+          "letter": "a",
+          "position": 177
+        },
+        {
+          "letter": "n",
+          "position": 178
+        },
+        {
+          "letter": "b",
+          "position": 179
+        },
+        {
+          "letter": "a",
+          "position": 180
+        },
+        {
+          "letter": "n",
+          "position": 181
+        },
+        {
+          "letter": "B",
+          "position": 182
+        },
+        {
+          "letter": "o",
+          "position": 183
+        },
+        {
+          "letter": "a",
+          "position": 184
+        },
+        {
+          "letter": "r",
+          "position": 187
+        },
+        {
+          "letter": "d",
+          "position": 187
+        }
+      ]
+    },
+    {
+      "label": "Sprint",
+      "description": "A short time interval within a project during which a usable and potentially releasable increment of the product is created.",
+      "positions": [
+        {
+          "letter": "S",
+          "position": 176
+        },
+        {
+          "letter": "p",
+          "position": 177
+        },
+        {
+          "letter": "r",
+          "position": 178
+        },
+        {
+          "letter": "i",
+          "position": 179
+        },
+        {
+          "letter": "n",
+          "position": 180
+        },
+        {
+          "letter": "t",
+          "position": 181
+        }
+      ]
+    },
+    {
+      "label": "Value",
+      "description": "The worth, importance, or usefulness of something.",
+      "positions": [
+        {
+          "letter": "V",
+          "position": 176
+        },
+        {
+          "letter": "a",
+          "position": 177
+        },
+        {
+          "letter": "l",
+          "position": 178
+        },
+        {
+          "letter": "u",
+          "position": 179
+        },
+        {
+          "letter": "e",
+          "position": 180
+        }
+      ]
+    }
   ]
   
