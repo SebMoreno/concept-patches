@@ -173,7 +173,7 @@
     },
     {
       "label": "Refactoring",
-      "description": "process of editing code to reduce or eliminate technical debt, generally undertaken to reduce code smells.",
+      "description": "Process of editing code to reduce or eliminate technical debt, generally undertaken to reduce code smells.",
       "positions": [
         {
           "letter": "R",
@@ -991,7 +991,7 @@
     },
     {
       "label": "Procedure",
-      "description": "coordinated set of actions that models a computation, such as an algorithm.",
+      "description": "Coordinated set of actions that models a computation, such as an algorithm.",
       "positions": [
         {
           "letter": "P",
